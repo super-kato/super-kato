@@ -1,4 +1,4 @@
-加藤の中の加藤。過藤
+スペシャル
 
 <!---
 super-kato/super-kato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
